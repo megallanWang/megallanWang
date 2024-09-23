@@ -1,6 +1,7 @@
 - 👋 Hi, @megallanWang here
 - 👀 Interested in algorithms applyed to astronomy
-- 🌱 Currently major in astronomy, with research interest in Asteroseismology
+- 🌱 PhD Student in astronomy and astrophysics, KU Leuven, Belgium.
+-      Previous degree acquired in BNU, Beijing.
 - 📫 Call me by my email
 
 <!---
